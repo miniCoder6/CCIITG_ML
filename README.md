@@ -4,13 +4,13 @@ This repository contains the solution of Task 1 – CampusPulse  along with proj
 Task 1 – CampusPulse
 The notebook is organized as follows:
 
-INITIAL TABLES AND PROCESSING
-LEVEL 1 
-LEVEL 2
-LEVEL 3 -QUESTION 1-QUESTION 5
-LEVEL 4
-LEVEL 5
-BONUS TASK
+* INITIAL TABLES AND PROCESSING
+* LEVEL 1 
+* LEVEL 2
+* LEVEL 3 -QUESTION 1-QUESTION 5
+* LEVEL 4
+* LEVEL 5
+* BONUS TASK
 
 
 
